@@ -3,7 +3,8 @@
 This project uses an IP webcam feed and TensorFlow for object detection to identify potholes on roads. The goal is to provide an automated system to detect potholes, which can help in timely maintenance and repair.
 
 ## Demo Screenshot
-*Include a relevant screenshot here*
+![WhatsApp Image 2024-07-31 at 18 00 33_01c1d1eb](https://github.com/user-attachments/assets/957f9858-0728-4bef-91e9-38bdc74b812e)
+
 
 ## Features
 - Real-time video feed capture from IP webcam
@@ -51,6 +52,7 @@ Follow these steps to get the project up and running on your local machine:
 ```plaintext
 pothole-detection/
 │
+├── GPS.cpp
 ├── Pathholedetection.py
 ├── Arduino.cpp
 ├── README.md
